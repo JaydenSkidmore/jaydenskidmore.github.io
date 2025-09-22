@@ -20,7 +20,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: /assets/images/profile-image/avatar.jpeg
+profile_image: /assets/images/profile-image/Image.jpg
 
 
 # Link your resume
@@ -47,8 +47,18 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: Electronics Design
     tools:
-
-  - category: Microcontroller/FPGA Families
+    - Digital Communications
+    - SMPS
+    - Linear Power Supplies
+    - DC/DC Converters
+    - Analog Signals
+    - Microcontrollers
+    - Analog Front-Ends
+    - RF (<5GHz)
+    - Opto-isolators
+    - EV High Voltage (<300VDC)
+    - Fail-safe systems
+  - category: Microcontrollers and FPGA
     tools:
     - STM32 | STM32CubeIDE
     - AMD FPGAs | Vivado
@@ -66,6 +76,7 @@ skills:
   - category: Coding Languages
     tools:
     - C/C++
+    - Assembly
     - Python
     - Java
     - PostgreSQL
@@ -73,7 +84,7 @@ skills:
   - category: Prototyping Skills
     tools:
     - Microcontroller Debugging
-    - Hand Soldering (inc. 0201 SMD)
+    - Precise Hand Soldering
     - Hot air soldering
     - Hot plate soldering
     - Wire stripping and Crimping
