@@ -30,7 +30,7 @@ resume-url: /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://linkedin.com/in/jayden-skidmore-3158802b8 
+  linkedin: https://linkedin.com/in/jayden-skidmore 
   github: https://github.com/JaydenSkidmore
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
