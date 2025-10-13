@@ -20,11 +20,20 @@ main-image: /CMU.png
 ## Cell Monitor
 {% include image-gallery.html images="./Images/CMU/IsoCMU.png, ./Images/CMU/CMU_Render.png" height="200"%}
 
+<embed
+    src="./Images/PMU/PDF_PMU.pdf"
+    type="application/pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></embed>
+
 ## Pack Monitor
-{% include image-gallery.html images="./Images/PMU/Iso_PMU.png, ./Images/PMU/Render_PMU.png" height="400"%}
+{% include image-gallery.html images="./Images/PMU/Iso_PMU.png, ./Images/PMU/Render_PMU.png" height="200"%}
 
 ## Battery Management Unit
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
+{% include image-gallery.html images="./Images/BMU/Iso_BMU.png, ./Images/BMU/Render_BMU.png" height="200"%}
 ---
 
 
