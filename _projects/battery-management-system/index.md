@@ -21,20 +21,20 @@ main-image: /CMU.png
 {% include image-gallery.html images="./Images/CMU/IsoCMU.png, ./Images/CMU/CMU_Render.png" height="200"%}
 
 <embed
-    src="../Images/PMU/PDF_PMU.pdf"
+    src="../Images/PMU/PDF_PMU.pdf#toolbar=0&navpanes=0&scrollbar=0"
     type="application/pdf"
     frameBorder="0"
     scrolling="auto"
-    height="100%"
-    width="100%"
-></embed>
+    height="30%"
+    width="50%"
+>
 
 <iframe
-    src="./Images/PMU/PDF_PMU.pdf"
+    src="../Images/PMU/PDF_PMU.pdf#toolbar=0&navpanes=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
-    height="100%"
-    width="100%"
+    height="30%"
+    width="50%"
 ></iframe>
 
 ## Pack Monitor
