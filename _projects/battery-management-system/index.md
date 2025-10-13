@@ -18,9 +18,7 @@ main-image: /CMU.png
 # Overview
 The Battery Management System consists of a set of Cell Monitoring Units (CMU) and a Pack Monitoring Unit (PMU), mananged through a centralized Battery Management Unit (BMU).
 
-<!-- <br> -->
-
----
+<br>
 
 ## Cell Monitor
 {% include image-gallery.html images="./Images/CMU/IsoCMU.png, ./Images/CMU/CMU_Render.png" height="200"%}
@@ -28,14 +26,11 @@ The Cell Monitor is responsible for measuring the voltages of each group of para
 
 <br>
 
----
-
 ## Pack Monitor
 {% include image-gallery.html images="./Images/PMU/Iso_PMU.png, ./Images/PMU/Render_PMU.png" height="200"%}
+The Pack Monitor is responsible for measuring the voltages of the entire pack, including the battery+, Fuse+, DC Link + and -, and across the precharge resistor. More information can be found in the <a href="../../pack-monitor/index/">Pack Monitor</a> project page.
 
 <br>
-
----
 
 ## Battery Management Unit
 {% include image-gallery.html images="./Images/BMU/Iso_BMU.png, ./Images/BMU/Render_BMU.png" height="200"%}
