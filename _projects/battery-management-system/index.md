@@ -18,7 +18,8 @@ main-image: /CMU.png
 # Overview
 The Battery Management System consists of a set of Cell Monitoring Units (CMU) and a Pack Monitoring Unit (PMU), mananged through a centralized Battery Management Unit (BMU).
 
-<br>
+<!-- <br> -->
+
 ---
 
 ## Cell Monitor
@@ -26,12 +27,14 @@ The Battery Management System consists of a set of Cell Monitoring Units (CMU) a
 The Cell Monitor is responsible for measuring the voltages of each group of parallel cells within the battery, where each CMU is capable of monitoring 16 consecutive groups. Each Cell monitor is capable of measuring up to 6 temperature points external to the CMU, and two points across the balancing resistors. The cell monitors are equipped with passive cell balancing capabilities. More information can be found in the <a href="../../cell-monitor/index/">Cell Monitor</a> project page.
 
 <br>
+
 ---
 
 ## Pack Monitor
 {% include image-gallery.html images="./Images/PMU/Iso_PMU.png, ./Images/PMU/Render_PMU.png" height="200"%}
 
 <br>
+
 ---
 
 ## Battery Management Unit
