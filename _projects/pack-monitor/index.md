@@ -6,6 +6,6 @@ description: Page Coming Soon
 
 skills: 
 
-main-image: ../../battery-management-system/Images/PMU/Iso_Stretched.png
+main-image: ../../battery-management-system/Images/PMU/Iso_PMU_Stretched.png
 ---
 

@@ -8,13 +8,13 @@ main-image: /Images/car.jpg
 ---
 ---
 ## Main DC/DC Converter
-{% include image-gallery.html images="./Images/DCDC/Iso_DCDC.png, ./Images/DCDC/Render_DCDC.png" height="200"%}
+{% include image-gallery.html images="./Images/DCDC/Iso_DCDC.png, ./Images/DCDC/Render_DCDC.png" height="300"%}
 > Section Coming Soon
 
 <br>
 
 ## Battery Disconnect
-{% include image-gallery.html images="./Images/BatConn/Iso_BatConn.png, ./Images/BatConn/Render_BatConn.png" height="200"%}
+{% include image-gallery.html images="./Images/BatConn/Iso_BatConn.png, ./Images/BatConn/Render_BatConn.png" height="300"%}
 > Section Coming Soon
 
 <br>
@@ -44,7 +44,7 @@ main-image: /Images/car.jpg
 <br>
 
 ## Car Lighting
-{% include image-gallery.html images="./Images/Lights/Iso_Lights.png, ./Images/Lights/Render_Lights.png" height="200"%}
+{% include image-gallery.html images="./Images/Lights/Iso_Lights.png, ./Images/Lights/Render_Lights.png" height="300"%}
 > Section Coming Soon
 
 ---
