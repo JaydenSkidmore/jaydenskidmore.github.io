@@ -34,7 +34,7 @@ The Pack Monitor is responsible for measuring the voltages of the entire pack, i
 
 ## Battery Management Unit
 {% include image-gallery.html images="./Images/BMU/Iso_BMU.png, ./Images/BMU/Render_BMU.png" height="200"%}
-Coming Soon...
+> Section Coming Soon...
 ---
 
 

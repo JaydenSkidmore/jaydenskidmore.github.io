@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Cell Monitor Unit
-description: Coming Soon
+title: Cell Monitor
+description: Page Coming Soon
 
 
 skills: 
 
-main-image: /CMU.png
+main-image: ../../battery-management-system/Images/CMU/Iso_CMU.png
 ---
 
