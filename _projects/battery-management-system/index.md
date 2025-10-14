@@ -15,7 +15,7 @@ main-image: /Images/Render_BMS_Depth.png
 ---
 
 ---
-{% include image-gallery.html images="./Images/Render_BMS.png" height="200"%}
+{% include image-gallery.html images="./Images/Render_BMS.png" height="400"%}
 
 # Overview
 The Battery Management System consists of a set of Cell Monitoring Units (CMU) and a Pack Monitoring Unit (PMU), mananged through a centralized Battery Management Unit (BMU).
