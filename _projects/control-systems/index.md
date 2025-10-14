@@ -11,6 +11,9 @@ main-image: /Images/car.jpg
 {% include image-gallery.html images="./Images/DCDC/Iso_DCDC.png, ./Images/DCDC/Render_DCDC.png" height="300"%}
 > Section Coming Soon
 
+{% include image-gallery.html images="./Images/SC3DCDC/Iso_DCDC.png, ./Images/SC3DCDC/Render_DCDC.png" height="300"%}
+> Section Coming Soon
+
 <br>
 
 ## Battery Disconnect
