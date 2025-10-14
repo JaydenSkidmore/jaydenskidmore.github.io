@@ -26,7 +26,7 @@ main-image: /Images/car.jpg
 <br>
 
 ## Solar Array Ideal Diodes
-{% include image-gallery.html images="./Images/SolDiode/Iso_SolDiode1.png, ./Images/SolDiode/Render_SolDiode1.png, ./Images/SolDiode/Iso_SolDiode2.png, ./Images/SolDiode/Render_SolDiode2.png" height="200"%}
+{% include image-gallery.html images="./Images/SolDiode/Iso_SolDiode1.png, ./Images/SolDiode/Iso_SolDiode2.png, ./Images/SolDiode/Render_SolDiode1.png, ./Images/SolDiode/Render_SolDiode2.png" height="150"%}
 > Section Coming Soon
 
 <br>
