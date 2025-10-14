@@ -13,7 +13,7 @@ main-image: /Images/car.jpg
     Section Coming Soon
 ```
 
-{% include image-gallery.html images="./Images/SC3DCDC/Iso_DCDC.png, ./Images/SC3DCDC/Render_DCDC.png" height="300"%}
+{% include image-gallery.html images="./Images/SC3DCDC/Iso_DCDC.png, ./Images/SC3DCDC/Render_DCDC.png, ./Images/SC3DCDC/Render_DCDC2.png" height="200"%}
 ```
     Section Coming Soon
 ```
