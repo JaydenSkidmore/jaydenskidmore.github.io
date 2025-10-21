@@ -14,7 +14,7 @@ main-image: ../../battery-management-system/Images/CMU/IsoCMU_Stretched.png
 ---
 
 ---
-{% include image-gallery.html images="../../battery-management-system/Images/CMU/Render_CMU.png" height="400"%}
+{% include image-gallery.html images="../../battery-management-system/Images/CMU/Render_CMU2.png" height="400"%}
 
 # Features
 - Montoring 6-16 Series Groups
