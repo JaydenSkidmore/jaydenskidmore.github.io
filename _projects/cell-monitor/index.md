@@ -14,7 +14,7 @@ main-image: ../../battery-management-system/Images/CMU/IsoCMU_Stretched.png
 ---
 
 ---
-{% include image-gallery.html images="./Images/CMU/Render_CMU.png" height="200"%}
+{% include image-gallery.html images="../../battery-management-system/Images/CMU/Render_CMU.png" height="400"%}
 
 # Features
 - Montoring 6-16 Series Groups
@@ -39,7 +39,7 @@ main-image: ../../battery-management-system/Images/CMU/IsoCMU_Stretched.png
 <br>
 
 ## Design Details
-{% include image-gallery.html images="../../battery-management-system/Images/CMU/Routing_CMU.png, ../../battery-management-system/Images/CMU/CombinedRouting_CMU.png, ../../battery-management-system/Images/CMU/LayerStack_CMU" height="200"%}
+{% include image-gallery.html images="../../battery-management-system/Images/CMU/Routing_CMU.png, ../../battery-management-system/Images/CMU/CombinedRouting_CMU.png, ../../battery-management-system/Images/CMU/LayerStack_CMU.png" height="200"%}
 
 > Section Coming Soon
 
