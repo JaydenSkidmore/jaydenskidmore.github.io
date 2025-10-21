@@ -4,7 +4,11 @@ title: Cell Monitor
 description: A compact and power efficient cell monitor capable of monitoring between 6 and 16 series groups of Lithium Ion battery cells. Utilising Texas Instruments BQ796XX-Q1 line of innovative battery monitoring chips, the cell monitors are built with safety and reliability at the heart. Utilising negligible power, with 3kV isolation from all other devices while maintaining fast and reliable communication, the monitors are built with the requirements of the World Solar Challenge in mind. <a href="../../battery-management-system/index/">Read about the full Battery Management System here</a>
 
 
-# skills: 
+skills: 
+ - PCB Design
+ - Analog Signals
+ - Power Systems
+ - Reliability and Efficiency
 
 main-image: ../../battery-management-system/Images/CMU/IsoCMU_Stretched.png
 ---
@@ -28,14 +32,14 @@ main-image: ../../battery-management-system/Images/CMU/IsoCMU_Stretched.png
 <br>
 
 ## Design Process
-{% include image-gallery.html images="./Images/CMU/IsoCMU.png, ./Images/CMU/CMU_Render.png" height="200"%}
+{% include image-gallery.html images="../../battery-management-system/Images/CMU/IsoCMU.png, ../../battery-management-system/Images/CMU/CMU_Render.png" height="200"%}
 
 > Section Coming Soon
 
 <br>
 
 ## Design Details
-{% include image-gallery.html images="./Images/CMU/Routing_CMU.png, ./Images/CMU/CombinedRouting_CMU.png, ./Images/CMU/LayerStack_CMU" height="200"%}
+{% include image-gallery.html images="../../battery-management-system/Images/CMU/Routing_CMU.png, ../../battery-management-system/Images/CMU/CombinedRouting_CMU.png, ../../battery-management-system/Images/CMU/LayerStack_CMU" height="200"%}
 
 > Section Coming Soon
 
