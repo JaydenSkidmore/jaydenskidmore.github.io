@@ -53,10 +53,12 @@ main-image: /Images/car.jpg
 <br>
 
 ## Driver Controls
-{% include image-gallery.html images="./Images/DriverBoard/Iso_DriverBoard.png, ./Images/DriverBoard/Render_DriverBoard.png, ./Images/DriverBoard/Render_DriverBoard_Full.png, ./Images/DriverBoard/Render_DriverBoard_FullBack.png" height="200"%}
+{% include image-gallery.html images="./Images/DriverBoard/Iso_DriverBoard.png, ./Images/DriverBoard/Render_DriverBoard.png" height="200"%}
 ```
     Section Coming Soon
 ```
+{% include image-gallery.html images="./Images/DriverBoard/Render_DriverBoard_Full.png, ./Images/DriverBoard/Render_DriverBoard_FullBack.png" height="200"%}
+
 
 <br>
 
